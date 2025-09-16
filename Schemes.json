@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "domain": "housing",
+    "eligibility": { "min_age": 18, "max_age": 70, "categories": ["GEN","OBC","SC","ST"] },
+    "apply_link": "https://pmaymis.gov.in/"
+  },
+  {
+    "name": "PM Surya Ghar Rooftop Solar",
+    "domain": "solar",
+    "eligibility": { "min_age": 18, "categories": ["GEN","OBC","SC","ST"] },
+    "apply_link": "https://pmsuryaghar.gov.in/"
+  }
+]
